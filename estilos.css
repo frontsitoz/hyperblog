@@ -8,13 +8,14 @@ padding: 0;
 }
 
 #container{
-    width: 70%;
-    padding: 1em;
-    text-align:left;
-    border: 1px solid #DDD;
+    width: 75%;
+    padding: 1.1em;
+    text-align:center;
+    border: 2px groove #DDD;
     margin: 0 auto;
+    margin-top: 2px;
 }
 
 #container h1{
-    font-size: 23px;
+    font-size: 20px;
 }
