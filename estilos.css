@@ -1,7 +1,7 @@
 body{
-    color: #68A;
-    text-align: center;
-    font-family:'Gill Sans', 'Gill Sans MT';
+color: #18b;
+text-align: center;
+font-family:'Gill Sans', 'Gill Sans MT';
 font-size: 16px;
 margin: 0;
 padding: 0;
@@ -43,4 +43,3 @@ box-shadow: -1px -1px 5px 8px rgb(97, 97, 131);
 #post{
     padding: 0.8em
 }
-
