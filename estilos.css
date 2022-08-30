@@ -1,5 +1,5 @@
 body{
-color: #3ea31c;
+color: #1c86a3;
 text-align: center;
 font-family:'Gill Sans', 'Gill Sans MT';
 font-size: 16px;
@@ -9,7 +9,7 @@ padding: 0;
 
 #cabecera{
     background-color: #88b;
-box-shadow: -1px -1px 5px 8px rgb(97, 97, 131);
+box-shadow: -1px -1px 5px 8px rgb(61, 61, 98);
   color: white;
   margin: 0;
   padding: 0.5em;

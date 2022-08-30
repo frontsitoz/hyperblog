@@ -1,0 +1,45 @@
+//Acá dejo un comentario de mi otra cuenta en GitHub
+
+OBSERVACIONES DE UN FRON-TEND
+*Responsabilidades:
+
+-Desarrollar características visuales de la aplicación.
+-Implementar código reutilizable y librerías.
+-Asegurar la factibilidad técnica de los diseños de UI/UX.
+-Optimizar la aplicación para obtener su mejor desempeño en términos de velocidad y
+escalabilidad.
+-Asegurar una fluida interacción con el back-end que garantice el correcto funcionamiento de la
+aplicación.
+*Habilidades:
+
+-Conocimientos y experiencia en web markup, especialmente HTML5, CSS3.
+-Conocimientos y experiencia en JavaScript y frameworks de desarrollo, especialmente AngularJS y
+Ionic.
+-Buena comprensión de arquitecturas web.
+-Buenos conocimientos en el manejo de solicitudes asíncronas.
+---------------------------------------------------------------------------------------------
+otras observaciones.....
+
+*FUNCIONES QUE ESTAS CAPACITADO A REALIZAR :
+
+Desarrollar aplicaciones web con HTML5, CSS3 Y JAVASCRIPT
+
+Integraciones con API
+
+Investigar soluciones para el proyecto
+
+Maquetación
+
+Manejo de preprocesadores y automatizadores de tareas
+
+
+*Experiencia desarrollando con Frontend--> puedes usar cualquiera de estos frameworks y 
+si tienes más experiencia y estas familiarizado con varios frameworks, puedes poner
+en tu curriculum todos los que sabes.
+
+Ejem:
+.Angular
+.Vue
+.React
+
+<3
