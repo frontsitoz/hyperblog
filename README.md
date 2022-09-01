@@ -4,7 +4,7 @@ Un blog increíble para el Curso de Git y Github en Platzi
 
 >Hacer un Readme más estilizado es una muy buena práctica, en este curso aprendí más de lo básico, gracias Freddy . 😁
 
-##En este curso vemos más de lo que nos esperamos
+## En este curso vemos más de lo que nos esperamos
 * Introduccion
 * Todos los comandos de Git
 * El flujo de trabajo en Github
